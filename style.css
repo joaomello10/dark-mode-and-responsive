@@ -159,6 +159,7 @@ header img {
     font-size: 0.9rem;
     margin-top: 40px;
     text-align: center;
+    margin-left: 0;
   }
   .item {
     flex-direction: column;
